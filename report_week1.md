@@ -18,7 +18,11 @@ Reasons for O'Connell  street:
 
 ## Data
 The data used in this project comes primarly from the [Foursquare API](https://developer.foursquare.com/). A list of 20 prominant streets within a 10-15 minute walk of O'Connell street was chosen
-and queried against Foursquare. The data was used to help get a view of the current competitive scene such as a breakdown of existing competition, location and distribution of the competition along with using
-a choropleth map to show the relitive comparison of competitors per city block.
+and queried against Foursquare.
+
+The data was used to help get a view of the current competitive scene such as:
+- a breakdown of existing competition
+- location and distribution of the competition
+- a choropleth map to show the relitive comparison of competitors per city block.
 
 Additionally a [geojson file was generated](http://geojson.io) for use in a chronopeth map which is also included.
