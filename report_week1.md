@@ -25,4 +25,4 @@ The data was used to help get a view of the current competitive scene such as:
 - location and distribution of the competition
 - a choropleth map to show the relitive comparison of competitors per city block.
 
-Additionally a [geojson file was generated](http://geojson.io) for use in a chronopeth map which is also included.
+Additionally a [geojson file was generated](https://github.com/cathaldi/Coursera-IBM-Intro-to-datascience/blob/master/dublin.geojson)   with [geojson.io](http://geojson.io) for use in a chronopeth map which is also included.
